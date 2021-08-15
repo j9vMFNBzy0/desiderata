@@ -7,4 +7,5 @@ they too have their story.
 
 [This is the first branch test.]
 [Editing the main branch.]
+[Midtext]
 [This is the second branch test.]
