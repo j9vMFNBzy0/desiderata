@@ -1,2 +1,3 @@
 This is a test,
+[I'm inserting text and saving it as a separate branch.]
 to see what happens when we try to merge conflicting branches.
