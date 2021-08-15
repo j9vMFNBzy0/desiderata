@@ -7,3 +7,4 @@ they too have their story.
 
 [This is the first branch test.]
 [Editing the main branch.]
+[This is the second branch test.]
